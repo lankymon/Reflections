@@ -1,4 +1,4 @@
-# **📌 February 2026 — Monthly Summary**
+# **📌 January 2026 — Monthly Summary**
 
 This month spanned organisational design, mathematical research, creative development, technical prototyping, and industry outreach. The work reflects a multi‑domain systems architect building long‑term structures while advancing several applied projects in parallel.
 
